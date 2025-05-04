@@ -1,0 +1,8 @@
+# Build and start the container
+docker-compose up --build
+
+# To run in detached mode
+docker-compose up -d
+
+# To stop the container
+docker-compose down
